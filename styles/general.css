@@ -1,0 +1,12 @@
+p{
+  font-family: 'Roboto';
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body{
+  padding-top:80px;
+  padding-left:96px;
+  padding-right:24px;
+  background-color: rgb(247, 246, 246);
+}
